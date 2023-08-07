@@ -43,13 +43,6 @@ dog1.eatTooManyTreats();
 console.log(`Updated Dog Weight: ${dog1.weight} kg`); 
 
 
-
-
-
-
-
-
-
 /*
 // Solution to checkpoint 1:
 const dogFactory = (name, breed, weight) => {
